@@ -2,11 +2,27 @@ Hi 👋 My name is Maxwel Ochieng
 ===============================
 
 
-Software Engineer (Backend & DevOps Engineering)
-----------------
+Senior Software Engineer 
+-----------------------
 
-Hey there! I'm a passionate software developer focusing strongly on backend & DevOps engineering. With expertise in Node.js, Express, Postgres, and MongoDB, I love building scalable and efficient APIs that power amazing user experiences. But that's not all! I also have extensive experience in frontend development, working with technologies like React.js, Next.js, and Tailwind to create beautiful and responsive interfaces. What sets me apart from other developers is my deep understanding of DevOps. I'm proficient with Jenkins, Docker, and container orchestration tools like Kubernetes, and have experience deploying and managing applications on Azure, DigitalOcean and AWS. I'm also skilled in Github actions, allowing me to automate CI/CD efficiency. Whether you're looking for a backend engineer or a full-stack developer with strong DevOps skills, I'm your guy. Let's collaborate and create something amazing together!
+As the lead backend engineer at Hurupay, I'm architecting next-generation payment infrastructure that bridges traditional banking with blockchain technology. I've designed and implemented a groundbreaking system that provides non-US residents with legitimate US bank accounts, seamlessly converting traditional USD deposits into USDC stablecoins while maintaining a familiar banking experience for end users.
 
+Key achievements:
+
+- Built and scaled a complete banking-as-a-service infrastructure enabling global workers and freelancers to receive USD payments through their own US bank accounts
+- Architected the blockchain infrastructure handling automated USDC conversions and settlements, processing millions in transaction volume
+- Developed secure API systems for batch payment processing, enabling businesses to pay multiple international workers efficiently
+- Implemented comprehensive DevOps practices across Azure and DigitalOcean, ensuring 99.9% uptime for critical financial services
+
+Core expertise:
+
+- Smart Contract Development: Solidity, ERC-20 tokens, treasury management, secure contract architecture
+- Blockchain & Banking: USDC integration, smart contracts, stablecoin settlements, banking API integration
+- Backend Systems: Node.js, TypeScript, API design, payment processing
+- Security & Compliance: Financial data protection, KYC integration, transaction monitoring
+Infrastructure: Multi-cloud architecture, CI/CD automation, system monitoring
+
+Currently, I am focused on expanding Hurupay's banking infrastructure to serve emerging markets while maintaining the highest security and reliability standards. Open to connecting with fintech innovators, blockchain developers, and others interested in the future of cross-border payments.
 
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [eng.maxwel.ochieng@gmail.com](mailto:eng.maxwel.ochieng@gmail.com)
