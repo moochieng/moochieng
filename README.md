@@ -5,7 +5,7 @@ Hi 👋 My name is Maxwel Ochieng
 Senior Software Engineer 
 -----------------------
 
-As the lead backend engineer at Hurupay, I'm architecting next-generation payment infrastructure that bridges traditional banking with blockchain technology. I've designed and implemented a groundbreaking system that provides non-US residents with legitimate US bank accounts, seamlessly converting traditional USD deposits into USDC stablecoins while maintaining a familiar banking experience for end users.
+I'm architecting next-generation payment infrastructure that bridges traditional banking with blockchain technology. I've designed and implemented a groundbreaking system that provides non-US residents with legitimate US bank accounts, seamlessly converting traditional USD deposits into USDC stablecoins while maintaining a familiar banking experience for end users.
 
 Key achievements:
 
@@ -22,7 +22,7 @@ Core expertise:
 - Security & Compliance: Financial data protection, KYC integration, transaction monitoring
 Infrastructure: Multi-cloud architecture, CI/CD automation, system monitoring
 
-Currently, I am focused on expanding Hurupay's banking infrastructure to serve emerging markets while maintaining the highest security and reliability standards. Open to connecting with fintech innovators, blockchain developers, and others interested in the future of cross-border payments.
+Currently, I am focused on expanding banking infrastructure to serve emerging markets while maintaining the highest security and reliability standards. Open to connecting with fintech innovators, blockchain developers, and others interested in the future of cross-border payments.
 
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [eng.maxwel.ochieng@gmail.com](mailto:eng.maxwel.ochieng@gmail.com)
