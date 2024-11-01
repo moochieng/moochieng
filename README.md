@@ -28,8 +28,8 @@ Currently, I am focused on expanding banking infrastructure to serve emerging ma
 * ✉️  You can contact me at [eng.maxwel.ochieng@gmail.com](mailto:eng.maxwel.ochieng@gmail.com)
 * 🧠  I'm learning Neural Networks In Artificial Intelligence
 
-<a href="https://www.github.com/devmaxwel" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/devmaxwel?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a><a href="https://www.twitter.com/mochieng_" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/moochieng" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/moochieng?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a><a href="https://www.twitter.com/mochieng_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/mochieng_?logo=twitter&style=for-the-badge&color=ef4444&labelColor=1c1917"/></a>
 
 ### Skills
@@ -44,9 +44,9 @@ src="https://img.shields.io/twitter/follow/mochieng_?logo=twitter&style=for-the-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/devmaxwel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devmaxwel&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/moochieng"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devmaxwel&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/devmaxwel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmaxwel&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/moochieng" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmaxwel&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
