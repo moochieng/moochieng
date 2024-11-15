@@ -5,7 +5,7 @@ Hi 👋 My name is Maxwel Ochieng
 Senior Software Engineer 
 -----------------------
 
-I'm architecting next-generation payment infrastructure that bridges traditional banking with blockchain technology. I've designed and implemented a groundbreaking system that provides non-US residents with legitimate US bank accounts, seamlessly converting traditional USD deposits into USDC stablecoins while maintaining a familiar banking experience for end users.
+I’m developing a next-generation payment platform that bridges traditional banking with digital assets. This system empowers non-US residents to receive funds in legitimate US bank accounts with their bank details, converting deposits into a stable digital currency for seamless, secure transfers while preserving a familiar banking experience.
 
 Key achievements:
 
