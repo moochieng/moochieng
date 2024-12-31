@@ -9,7 +9,7 @@ I’m developing a next-generation payment platform that bridges traditional ban
 
 Key achievements:
 
-- Built and scaled a complete banking-as-a-service infrastructure enabling global workers and freelancers to receive USD payments through their own US bank accounts
+- Built and scaled a complete banking-as-a-service infrastructure enabling global workers and freelancers to receive USD payments through a US bank account. 
 - Architected the blockchain infrastructure handling automated USDC conversions and settlements, processing millions in transaction volume
 - Developed secure API systems for batch payment processing, enabling businesses to pay multiple international workers efficiently
 - Implemented comprehensive DevOps practices across Azure and DigitalOcean, ensuring 99.9% uptime for critical financial services
